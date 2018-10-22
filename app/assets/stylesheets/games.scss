@@ -1,0 +1,59 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.new-game {
+  font-family: 'Playfair Display', serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px 20px;
+}
+
+.form-inline{
+  font-family: 'Playfair Display', serif;
+  display: flex;
+  flex-direction: column;
+  margin: 50px 20px;
+}
+
+ul {
+	margin-top: 50px;
+}
+
+li{
+  color: white;
+  font-weight: bold;
+  box-shadow: 2px 1px 17px 0px #c7c4c4;
+  display: inline;
+  list-style-type: none;
+  border-radius: 5%;
+  background: #F18A9B;
+  font-family: 'Playfair Display', serif;
+  padding: 20px;
+  margin: 0 5px;
+  font-size: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 0px;
+  margin-left: 46px;
+}
+
+.form {
+  margin: 44px;
+}
+
+button {
+  margin-left: 0px;
+  height: 44px;
+  width: 70px;
+
+}
+
+.link {
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+  margin-left: 23px;
+ }
+
